@@ -197,6 +197,10 @@ $name = "Uchechukwu Anthony Nwachukwu";
                                     <div class="progress">
                                         <div class="determinate">80%</div>
                                     </div>
+                                    <span>Wordpress</span>
+                                    <div class="progress">
+                                        <div class="determinate">90%</div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -289,11 +293,11 @@ $name = "Uchechukwu Anthony Nwachukwu";
                             <marquee behavior="" direction="">Please click on the images it will direct you to the project</marquee>
                                 <ul>
                                     
-                                    <li>   <a href="http://lightgates.app/" ><img src="sch.png" width="100%" height="100%x" srcset=""></a></li>
-                                    
-                                    <li><a href="https://www.bitnetrade.com/" ><img src="bb.png" alt="" width="100%" height="100%" srcset=""></a></li>
-                                    <li>   <a href="https://itradefund.com/" ><img src="po.png" width="100%" height="100%" srcset=""></a></li>
-                                    <li> <a href="http://ampleyheartstonecapital.com/" ><img src="poo.png" alt="" width="100%" height="100%" srcset=""></a></li>
+                                    <li>   <a href="http://lightgates.app/" >School Management System</a></li>
+                                                                 <li>   <a href="https://itradefund.com/" >Investment Website</a></li>
+
+                                    <li><a href="https://www.bitnetrade.com/" >Investment Website</a></li>
+                                    <li> <a href="http://ampleyheartstonecapital.com/" >Business Website</a></li>
                                     
                                 </ul> 
                             </div>                          
