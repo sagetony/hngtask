@@ -293,11 +293,11 @@ $name = "Uchechukwu Anthony Nwachukwu";
                             <marquee behavior="" direction="">Please click on the images it will direct you to the project</marquee>
                                 <ul>
                                     
-                                    <li>   <a href="http://lightgates.app/" >School Management System</a></li>
-                                                                 <li>   <a href="https://itradefund.com/" >Investment Website</a></li>
+                                    <li>   <a href="http://lightgates.app/" ></a>School Management System</li>
+                                                                 <li>   <a href="https://itradefund.com/" ></a>Investment Website</li>
 
-                                    <li><a href="https://www.bitnetrade.com/" >Investment Website</a></li>
-                                    <li> <a href="http://ampleyheartstonecapital.com/" >Business Website</a></li>
+                                    <li><a href="https://www.bitnetrade.com/" ></a>Investment Website</li>
+                                    <li> <a href="http://ampleyheartstonecapital.com/" ></a>Business Website</li>
                                     
                                 </ul> 
                             </div>                          
