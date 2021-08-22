@@ -290,16 +290,16 @@ $name = "Uchechukwu Anthony Nwachukwu";
                             </div>
                             <div class="interests col s12 m12 l10 wow fadeIn" data-wow-delay="0.1s"> 
                             <h2>Personal Project </h2>
-                            <marquee behavior="" direction="">Please click on the images it will direct you to the project</marquee>
+                            <marquee behavior="" direction="">Please click on the text it will direct you to the project</marquee>
                                 <ul>
                                     
-                                    <li>   <a href="http://lightgates.app/" ></a>School Management System</li>
-                                                                 <li>   <a href="https://itradefund.com/" ></a>Investment Website</li>
+                                <li>   <a href="http://lightgates.app/" style="color:black;">School Management System</a></li>
+                                                                 <li>   <a href="https://itradefund.com/"style="color:black;" >Investment Website</a></li>
 
-                                    <li><a href="https://www.bitnetrade.com/" ></a>Investment Website</li>
-                                    <li> <a href="http://ampleyheartstonecapital.com/" ></a>Business Website</li>
+                                    <li ><a href="https://www.bitnetrade.com/" style="color:black;">Investment Website</a></li>
+                                    <li> <a href="http://ampleyheartstonecapital.com/" style="color:black;">Business Website</a></li>
                                     
-                                </ul> 
+                                </ul>
                             </div>                          
                         </div>
                         <!-- ========================================
