@@ -164,6 +164,42 @@ $name = "Uchechukwu Anthony Nwachukwu";
                                 </div>
                             </div>            
                         </div>
+                        <div class="col l12 m12 s12  skills sidebar-item" >
+                            <div class="row">
+                                <div class="col m12 l3 s12 icon">
+                                    <i class="fa fa-calendar-o"></i> <!-- icon -->
+                                </div>
+                                 <!-- Skills -->
+                                <div class="col m12 l9 s12 skill-line a5 wow fadeIn" data-wow-delay="0.5s">
+                                    <h3>Professional Skills </h3>
+                                    
+                                    <span>HTML</span>
+                                    <div class="progress">
+                                        <div class="determinate"> 95%</div>
+                                    </div>
+                                    
+                                    <span>CSS</span>
+                                    <div class="progress">
+                                        <div class="determinate">90%</div>
+                                    </div>
+
+                                    <span>Laravel</span>
+                                    <div class="progress">
+                                        <div class="determinate">85%</div>
+                                    </div>
+
+                                    <span>PHP</span>
+                                    <div class="progress">
+                                        <div class="determinate">90%</div>
+                                    </div>
+
+                                    <span>SQL</span>
+                                    <div class="progress">
+                                        <div class="determinate">80%</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                         <div class="col l12 m12 s12   address sidebar-item ">
                             <div class="row">                                
                                 <div class="col l3 m12  s12 icon">
@@ -244,7 +280,24 @@ $name = "Uchechukwu Anthony Nwachukwu";
                                 
                             </div>
                         </div>
-
+                        <div class="section-wrapper z-depth-1">                           
+                        <div class="section-icon col s12 m12 l2">
+                                <i class="fa fa-graduation-cap"></i>
+                            </div>
+                            <div class="interests col s12 m12 l10 wow fadeIn" data-wow-delay="0.1s"> 
+                            <h2>Personal Project </h2>
+                            <marquee behavior="" direction="">Please click on the images it will direct you to the project</marquee>
+                                <ul>
+                                    
+                                    <li>   <a href="http://lightgates.app/" ><img src="sch.png" width="100%" height="100%x" srcset=""></a></li>
+                                    
+                                    <li><a href="https://www.bitnetrade.com/" ><img src="bb.png" alt="" width="100%" height="100%" srcset=""></a></li>
+                                    <li>   <a href="https://itradefund.com/" ><img src="po.png" width="100%" height="100%" srcset=""></a></li>
+                                    <li> <a href="http://ampleyheartstonecapital.com/" ><img src="poo.png" alt="" width="100%" height="100%" srcset=""></a></li>
+                                    
+                                </ul> 
+                            </div>                          
+                        </div>
                         <!-- ========================================
                               Intertests 
                         ==========================================-->
